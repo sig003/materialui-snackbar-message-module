@@ -9,4 +9,4 @@ yarn add @material-ui/lab
 4. image 1
 <img width="781" alt="스크린샷 2021-09-01 오후 3 45 36" src="https://user-images.githubusercontent.com/53844621/131624719-8f3b6899-7aaa-4e30-985f-64b2dd960998.png">
 5. image 2
-<img width="1118" alt="스크린샷 2021-09-01 오후 3 45 47" src="https://user-images.githubusercontent.com/53844621/131624774-dcd30a60-e71c-41ff-9684-47e99d34aabb.png">
+<img width="729" alt="스크린샷 2021-09-01 오후 3 47 32" src="https://user-images.githubusercontent.com/53844621/131624923-cd5ad3b8-9ceb-421e-bcdb-3ef9e831d672.png">
